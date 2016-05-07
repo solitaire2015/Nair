@@ -1,0 +1,10 @@
+c:\users\solitaire\documents\visual studio 2013\Projects\tairtest\tairtest\bin\Debug\tairtest.exe.config
+c:\users\solitaire\documents\visual studio 2013\Projects\tairtest\tairtest\bin\Debug\tairtest.exe
+c:\users\solitaire\documents\visual studio 2013\Projects\tairtest\tairtest\bin\Debug\tairtest.pdb
+c:\users\solitaire\documents\visual studio 2013\Projects\tairtest\tairtest\bin\Debug\TairLib.dll
+c:\users\solitaire\documents\visual studio 2013\Projects\tairtest\tairtest\bin\Debug\Thrift.dll
+c:\users\solitaire\documents\visual studio 2013\Projects\tairtest\tairtest\bin\Debug\TairLib.pdb
+c:\users\solitaire\documents\visual studio 2013\Projects\tairtest\tairtest\bin\Debug\Thrift.pdb
+c:\users\solitaire\documents\visual studio 2013\Projects\tairtest\tairtest\obj\Debug\tairtest.csprojResolveAssemblyReference.cache
+c:\users\solitaire\documents\visual studio 2013\Projects\tairtest\tairtest\obj\Debug\tairtest.exe
+c:\users\solitaire\documents\visual studio 2013\Projects\tairtest\tairtest\obj\Debug\tairtest.pdb
