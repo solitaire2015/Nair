@@ -1,1 +1,9 @@
 export LD_LIBRARY_PATH=/usr/local/lib
+
+get方法依然存在取的数据不正常的情况，
+
+现在对于不存在的key/value的做法是thrift server直接返回“”，需要在SDK出添加检测到返回结果为“”的友好提示。
+
+对于tair begin 失败时候的提示和处理。
+
+其他返回值不正常的处理 return ！= 0 处理。
